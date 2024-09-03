@@ -3,7 +3,7 @@ export default {
    * See https://storybook.js.org/docs/configure/#configure-story-loading
    * to learn how to generate automatic titles
    */
-  title: 'Button',
+  title: 'ButtonJS',
 };
 
 /*
@@ -23,6 +23,6 @@ export const Primary = {
   },
   args: {
     primary: true,
-    label: 'Button',
+    label: 'ButtonJS',
   },
 };
