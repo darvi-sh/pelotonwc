@@ -1,3 +1,5 @@
+import './button.css';
+
 export default {
   /* 👇 The title prop is optional.
    * See https://storybook.js.org/docs/configure/#configure-story-loading
